@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/demo2corp/dredd-test-two/issues"
   },
-  "homepage": "https://github.com/demo2corp/dredd-test-two#readme"
+  "homepage": "https://github.com/demo2corp/dredd-test-two#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
